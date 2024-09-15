@@ -1,11 +1,45 @@
 \documentclass[12pt]{article}
-
+\usepackage{hyperref}  % add this package to support \autoref
+\usepackage{amsmath}
 \begin{document}
 Hello world! This is my first \LaTeX\ document. 
-
+\newpage
+\section{Formulas}
 A rectangle has side lengths of $(x+1)$ and $(x+3)$.A hard return is going to start a new paragraph.\\
 A rectangle has side lengths of $(x+1)$ and $(x+3)$. \textbackslash\textbackslash\ is a soft return and therefore the line is not indented.
 
 The equation $${A(x)=x^2+4x+3}$$ gives the area of the rectangle.\\
 \{\} makes sure to keep your equation on a line.
+
+\begin{equation}\label{eq0}
+    \alpha^2+\beta^2=\gamma^2
+\end{equation}
+Famous Gaussian quadrature:
+\begin{equation}
+    \begin{split}
+        S&=1+2+3+\dots+n\\
+        S&=n+(n-1)+(n-2)+\dots+1\\
+        2S&=(1+n)+(2+(n-1))+(3+(n-2))+\dots+(n+1)\\
+        2S&=n(n+1)\\
+        S&=\frac{n(n+1)}{2} 
+    \end{split}
+\end{equation}
+Formulas for various situations:
+\begin{equation}
+    F(x)=
+    \begin{cases}
+        0&,\text{if $x<-1$}\\
+        x+1&,\text{if $x>3$}\\
+        1&,\text{otherwise.}
+    \end{cases}
+\end{equation}
+
+\[
+    a^2+b^2=c^2
+\]
+
+Reference test \autoref{eq0}
+
+Insertion of pictures:\\
+Try to insert vector graphics so that the image will not change in clarity when it is enlarged or reduced.
 \end{document} 
