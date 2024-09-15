@@ -1,0 +1,78 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+McKay%
+\ \BBA {} Blumberg%
+}{%
+McKay%
+\ \BBA {} Blumberg%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+mckay2002role}
+\APACinsertmetastar {%
+mckay2002role}%
+\begin{APACrefauthors}%
+McKay, D\BPBI L.%
+\BCBT {}\ \BBA {} Blumberg, J\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The role of tea in human health: an update} {The role of tea in human health: an update}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of the American College of Nutrition}{21}{1}{1--13}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Trevisanato%
+\ \BBA {} Kim%
+}{%
+Trevisanato%
+\ \BBA {} Kim%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+trevisanato2000tea}
+\APACinsertmetastar {%
+trevisanato2000tea}%
+\begin{APACrefauthors}%
+Trevisanato, S\BPBI I.%
+\BCBT {}\ \BBA {} Kim, Y\BPBI I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Tea and health} {Tea and health}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nutrition reviews}{58}{1}{1--10}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Yang%
+\ \BBA {} Wang%
+}{%
+Yang%
+\ \BBA {} Wang%
+}{%
+{\protect \APACyear {1993}}%
+}]{%
+yang1993tea}
+\APACinsertmetastar {%
+yang1993tea}%
+\begin{APACrefauthors}%
+Yang, C\BPBI S.%
+\BCBT {}\ \BBA {} Wang, Z\BHBI Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1993}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Tea and cancer} {Tea and cancer}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{JNCI: Journal of the National Cancer Institute}{85}{13}{1038--1049}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
