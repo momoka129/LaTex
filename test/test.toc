@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Mathematical Notations}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}superscripts}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Subscripts}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Greek letters}{3}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Trig functions}{3}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Log functions}{3}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Roots}{4}{subsection.1.6}%
+\contentsline {section}{\numberline {2}Insertion of pictures}{5}{section.2}%
+\contentsline {section}{\numberline {3}Sheet}{6}{section.3}%
+\contentsline {section}{References}{6}{section*.2}%
