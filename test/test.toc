@@ -6,6 +6,7 @@
 \contentsline {subsection}{\numberline {1.5}Log functions}{3}{subsection.1.5}%
 \contentsline {subsection}{\numberline {1.6}Roots}{4}{subsection.1.6}%
 \contentsline {subsection}{\numberline {1.7}Fractions}{4}{subsection.1.7}%
-\contentsline {section}{\numberline {2}Insertion of pictures}{6}{section.2}%
-\contentsline {section}{\numberline {3}Sheet}{7}{section.3}%
+\contentsline {section}{\numberline {2}Brackets}{5}{section.2}%
+\contentsline {section}{\numberline {3}Insertion of pictures}{6}{section.3}%
+\contentsline {section}{\numberline {4}Sheet}{7}{section.4}%
 \contentsline {section}{References}{7}{section*.2}%
