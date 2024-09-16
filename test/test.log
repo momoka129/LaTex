@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.14)  15 SEP 2024 18:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.14)  16 SEP 2024 11:29
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -387,13 +387,13 @@ Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
 \openout4 = `test.toc'.
 
  [2]
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 34.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 59.
  (d:/texlive/2024/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
- [3]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 59.
+ [3] [4]
 Package epstopdf Info: Source file: <mcmthesis-aaa.eps>
 (epstopdf)                    date: 2024-09-14 12:05:57
 (epstopdf)                    size: 458067 bytes
@@ -401,14 +401,14 @@ Package epstopdf Info: Source file: <mcmthesis-aaa.eps>
 (epstopdf)                    date: 2024-09-15 17:21:29
 (epstopdf)                    size: 78365 bytes
 (epstopdf)             Command: <epstopdf --outfile=mcmthesis-aaa-eps-converted-to.pdf mcmthesis-aaa.eps>
-(epstopdf)             \includegraphics on input line 72.
+(epstopdf)             \includegraphics on input line 97.
 Package epstopdf Info: Output file is already uptodate.
-<mcmthesis-aaa-eps-converted-to.pdf, id=56, 421.575pt x 317.185pt>
+<mcmthesis-aaa-eps-converted-to.pdf, id=84, 421.575pt x 317.185pt>
 File: mcmthesis-aaa-eps-converted-to.pdf Graphic file (type pdf)
 <use mcmthesis-aaa-eps-converted-to.pdf>
-Package pdftex.def Info: mcmthesis-aaa-eps-converted-to.pdf  used on input line 72.
+Package pdftex.def Info: mcmthesis-aaa-eps-converted-to.pdf  used on input line 97.
 (pdftex.def)             Requested size: 341.43306pt x 256.89423pt.
- [4 <./mcmthesis-aaa-eps-converted-to.pdf>]
+ [5 <./mcmthesis-aaa-eps-converted-to.pdf>]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -417,27 +417,37 @@ Package pdftex.def Info: mcmthesis-aaa-eps-converted-to.pdf  used on input line 
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
- (./test.bbl) [5] (./test.aux)
+ (./test.bbl) [6] (./test.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `test.out' has not changed.
-(rerunfilecheck)             Checksum: 787F04F96FC20635CBB1BB332FF2C69D;399.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `test.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `test.out':
+(rerunfilecheck)             Before: D4F91ABCDF13A610A05F6A5FC19A2B39;951
+(rerunfilecheck)             After:  2CA03985D8587A462699105729DF9953;1076.
  ) 
 Here is how much of TeX's memory you used:
- 11878 strings out of 476023
- 204821 string characters out of 5791734
+ 11889 strings out of 476023
+ 204978 string characters out of 5791734
  1936190 words of memory out of 5000000
- 33854 multiletter control sequences out of 15000+600000
- 567584 words of font info for 68 fonts, out of 8000000 for 9000
+ 33859 multiletter control sequences out of 15000+600000
+ 567891 words of font info for 69 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 79i,15n,98p,309b,706s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on test.pdf (5 pages, 218220 bytes).
+ 79i,15n,98p,309b,708s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on test.pdf (6 pages, 248412 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
- 19 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 180 PDF objects out of 1000 (max. 8388607)
+ 134 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 70 words of extra memory for PDF output out of 10000 (max. 10000000)
 
