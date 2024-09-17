@@ -1,17 +1,19 @@
-\documentclass[12pt]{article}
+\documentclass[12pt, a4paper]{article}
 \usepackage{hyperref}  % add this package to support \autoref
-\usepackage{amsmath}    %support split
-\usepackage{amssymb}
+\usepackage{amsfonts, amssymb, amsmath}    %support split
 \usepackage{lipsum}     %generate a random paragraph
 \usepackage{graphicx}
 \usepackage{tabularray} %use for table
 \usepackage{enumerate}
+%\usepackage{fullpage}
+\usepackage[margin=1in]{geometry}
 \providecommand{\keywords}[1]{\textbf{\textit{Keywords:}} #1}   % 定义关键字命令
 \usepackage{apacite}
 \bibliographystyle{apacite}
 %\pagestyle{empty}
 \setlength{\parindent}{0pt}
 
+\def\eq11{$y=\dfrac{x}{3x^2+x+1}$}
 
 \title{The \LaTeX\ Template for Beginners}
 \author{Kinoko}
@@ -23,6 +25,8 @@
 
 \begin{abstract}
     Hello world! This is my first \LaTeX\ document. 
+
+    Let's examine the function \eq11.
 
     \lipsum[1]
 
@@ -111,6 +115,7 @@ Formulas for various situations:
 \[
     a^2+b^2=c^2
 \]
+This is the symbol for the set of all real numbers: $\mathbb{R}$.
 
 \section{Brackets}
 
@@ -235,7 +240,7 @@ Try to insert vector graphics\cite{mckay2002role} so that the image will not cha
 \begin{figure}[htbp]
     \includegraphics[width=12cm]{mcmthesis-aaa.eps}
     \caption{idk what}
-    \label{fig:a}
+    \label{fig:a}    
 \end{figure}
 \\Reference test \autoref{eq0}
 
